@@ -1,7 +1,16 @@
 body {
-  background-color:powderblue ;
+  color: azure;
 }
 
 .hidden {
   display: none;
+}
+
+img {
+  z-index: -2;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
 }

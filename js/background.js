@@ -1,4 +1,4 @@
-const images = ["00.jpg", "01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg",]
+const images = ["1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "5.jpeg", "6.jpeg", "7.jpeg", "8.jpeg"]
 
 const selectImage = images[Math.floor(Math.random() * images.length)]
 

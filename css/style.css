@@ -69,13 +69,12 @@ img {
 }
 #login-form input {
   padding: 10px;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 500;
   border-style: none;
-  border-bottom: 2px solid rgba(240, 255, 255, 0.85);
+  border-bottom: 3px solid rgba(240, 255, 255, 0.85);
   color: azure;
   background-color: rgba(0, 0, 0, 0);
-  width: 320px;
   margin-right: 10px;
 }
 #login-form input::placeholder {
@@ -84,10 +83,11 @@ img {
 }
 #login-form button {
   background-color: rgba(0, 0, 0, 0);
-  padding: 15px;
-  font-size: 35px;
-  font-weight: 500;
-  border: 3px solid rgba(240, 255, 255, 0.85);
+  padding: 8px 16px;
+  font-size: 27px;
+  font-weight: 600;
+  border: 4px solid rgba(240, 255, 255, 0.85);
+  color: rgba(240, 255, 255, 0.85);
   border-radius: 10px;
 }
 #login-form button:hover {
